@@ -1,0 +1,3 @@
+# herein are pip packages to be installed at startup
+python-dwca-reader~=0.15.0
+pandas~=1.3.3
